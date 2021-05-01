@@ -3,6 +3,5 @@
 
 **Languages**
 
-- Esto es viñeta 1.
-  - Viñeta 1.1 con sangria.
-  - Viñeta N.
+  - HTML.
+  - CSS.
